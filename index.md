@@ -2,6 +2,11 @@
 
 ![Image of Basketball](https://avatars.githubusercontent.com/u/11377758?v=4)
 
+
+### How to use code in Markdown
+
+I learned how to add code using the backtick symbol etc...
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills
